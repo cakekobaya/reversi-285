@@ -1,2 +1,2 @@
 # reversi-285
-Othello exercise on the web for a class exercise
+Othello exercise on the web for a class exercise. Testing testing.  
